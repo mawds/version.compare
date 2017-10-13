@@ -13,3 +13,4 @@
 # Vignette cache
 vignettes/*_cache/*
 vignettes/*_files/*
+.Rproj.user
